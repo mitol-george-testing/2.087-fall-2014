@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ce2a794a-3bd9-f266-68f3-776c1b372455",
+      "84b06ab4-b3e7-63cc-f537-5507e60fa961"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Engineering Math: Differential Equations and Linear Algebra",
+  "course_description": "This course is about the mathematics that is most widely used in the mechanical engineering core subjects: An introduction to linear algebra and ordinary differential equations (ODEs), including general numerical approaches to solving systems of equations.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.087",
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Videos",
+    "Problem Sets",
+    "Programming Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
